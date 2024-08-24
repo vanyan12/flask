@@ -1,0 +1,6 @@
+flask
+telebot
+pillow
+fpdf2
+gunicorn
+
