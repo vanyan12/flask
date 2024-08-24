@@ -17,7 +17,7 @@ from feedback import send_feedback
 app = Flask(__name__)
 
 
-@app.route("/")
+@app.route("/a")
 def welcome():
     return "Un bon coup!"
 
